@@ -1,3 +1,3 @@
-#ALX Interview
+# ALX Interview
 
 ### Preparing for technical Interview
